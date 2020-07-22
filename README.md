@@ -6,6 +6,7 @@ Create virtual environment
 virtualenv styletransfer
 source styletransfer/bin/activate
 `
+
 Install requirements
 `pip install -r requirements.txt`
 
