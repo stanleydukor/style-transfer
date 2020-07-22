@@ -2,12 +2,14 @@
 
 ## Installation
 Create virtual environment
+
 `pip install virtualenv
 virtualenv styletransfer
 source styletransfer/bin/activate
 `
 
 Install requirements
+
 `pip install -r requirements.txt`
 
 ## Single Style Transfer
