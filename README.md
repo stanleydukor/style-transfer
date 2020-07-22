@@ -1,5 +1,14 @@
 # Pytorch Implementation of Neural Style Transfer
 
+## Installation
+Create virtual environment
+`pip install virtualenv
+virtualenv styletransfer
+source styletransfer/bin/activate
+`
+Install requirements
+`pip install -r requirements.txt`
+
 ## Single Style Transfer
 Involves a content image and style image.
 The loss is the sum of the single content loss and the single style loss
