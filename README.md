@@ -24,6 +24,6 @@ The final loss is then the sum of the single content loss and the style loss.
 <img src="assets/multi.png" />
 
 ## Links
-- <a href="">Medium Post</a>
+- <a href="https://t.co/9Z5z8f6yc7?amp=1">Medium Post</a>
 - <a href="https://www.udacity.com/course/deep-learning-pytorch--ud188">Udacity Deep Learning with Pytorch</a>
 
